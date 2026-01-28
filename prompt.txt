@@ -261,8 +261,6 @@ Your rewrite MUST have:
 
 - [ ] Every paragraph ends with short punchy sentence?
 
-- [ ] 800-1000 words total?
-
 - [ ] Sounds like a tired student talking, not a robot writing?
 
 
