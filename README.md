@@ -11,9 +11,9 @@ AtomHumanizer is an advanced AI text humanization tool designed to rewrite AI-ge
 - **Auto Revise**: Automatically improve the humanization score with one click.
 - **File Support**: Upload `.txt`, `.md`, `.docx`, `.pptx` files directly.
 - **Multi-Provider Support**:
-  - Google Gemini (Free Tier supported)
-  - Ollama (Local LLMs)
-  - OpenRouter (Access to Claude 3.5 Sonnet, GPT-4o, etc.)
+  - Google Gemini 
+  - Ollama
+  - OpenRouter 
 
 ## Installation
 
@@ -60,11 +60,3 @@ export SECRET_KEY='your-secure-secret-key'
 3. **Process**: Click the main action button.
 4. **Refine**: Use the chat box to request specific changes (e.g., "Add more slang").
 5. **Download**: Save your result as TXT, DOCX, or MD.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
